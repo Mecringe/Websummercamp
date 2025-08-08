@@ -1,2 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+
+*{
+    font-family: 'TF2 Build', sans-serif;
+}
